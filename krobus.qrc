@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/krobus">
+    <file alias="idle.png">assets/sprites/idle.png</file>
+    <file alias="happy.png">assets/sprites/happy.png</file>
+    <file alias="thinking.png">assets/sprites/thinking.png</file>
+    <file alias="sad.png">assets/sprites/sad.png</file>
+    <file alias="surprised.png">assets/sprites/surprised.png</file>
+    <file alias="sleeping.png">assets/sprites/sleeping.png</file>
+  </qresource>
+</RCC>
