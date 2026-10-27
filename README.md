@@ -60,7 +60,7 @@ KROBUS started as an experiment in making AI interaction feel more like having a
 ## 🎨 Meet the frogs
 
 <div align="center">
-  <img src="docs/krobus-appearances.png" alt="All 24 KROBUS appearance combinations: four colors and six outfits" width="100%" />
+  <img src="docs/krobus-apperances.png" alt="All 24 KROBUS appearance combinations: four colors and six outfits" width="100%" />
   <p><sub>Classic • Azure • Golden • Crimson — each with six outfit choices.</sub></p>
 </div>
 
